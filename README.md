@@ -1,5 +1,9 @@
 # pokedex
 
+<p align="center">
+    <img width="600px" height="337px" src="src/assets/pokemon.gif" />
+</p>
+
 ## Project setup
 ```
 npm install
